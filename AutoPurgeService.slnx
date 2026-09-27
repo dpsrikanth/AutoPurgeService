@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AutoPurgeService.csproj" />
+  <Project Path="AutoPurgeService.Tests/AutoPurgeService.Tests.csproj" />
+</Solution>
